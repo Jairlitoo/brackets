@@ -1,5 +1,5 @@
 # Brackets
-Brackets is an Uwufufu-style image tournament using pygame & tkinter in which you can create your own custom tournaments and play them.
+Brackets is an Uwufufu-style image tournament using PyGame & Tkinter in which you can create your own custom tournaments and play them.
 
 I'm not very experienced with python. This project mainly allowed me to familiarize myself with pygame and tkinter, I did it without worrying about the quality of the code itself, I focused only on the result. Feel free to modify and improve the code as you wish.
 
@@ -8,9 +8,9 @@ I'm not very experienced with python. This project mainly allowed me to familiar
 
 ## Installation
 You can get either the compiled .exe version or the .py version.
-In order to use the .py version, you will need to have Python-3 installed and added into your system path. You will also need Pygame and Tkinter
+In order to use the .py version, you will need to have Python-3 installed and added into your system path. You will also need PyGame and Tkinter
 
-### Installing Pygame
+### Installing PyGame
 ```
 pip install pygame
 ```
