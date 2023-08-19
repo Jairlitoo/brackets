@@ -18,7 +18,7 @@ pip install pygame
 ```
 pip install tk
 ```
-Note that two .ico files are provided. Those are not required to make the program, it is just to have the window icons displayed. I didn't managed to include them into the .exe file.
+Note that two .ico files are provided. Those are not required to make the program work, it's just to have the window icons displayed. I didn't managed to include them into the .exe file.
 
 ## Usage
 To play your own tournament, create a folder in the same path as the executable and place your own images in it. When you launch the program, select your folder in the "Directory" menu. Then select the number of images you want your game to have.
