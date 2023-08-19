@@ -1,7 +1,7 @@
 # Brackets
 Brackets is an Uwufufu-style image tournament using pygame & tkinter in which you can create your own custom tournaments and play them.
 
-I'm not very experienced in python. This project mainly allowed me to familiarize myself with pygame and tkinter, I did it without worrying about the quality of the code itself, I focused only on the result. Feel free to modify and improve the code as you wish.
+I'm not very experienced with python. This project mainly allowed me to familiarize myself with pygame and tkinter, I did it without worrying about the quality of the code itself, I focused only on the result. Feel free to modify and improve the code as you wish.
 
 ![ingame-screenshot](https://cdn.discordapp.com/attachments/900064204340465745/1142552521282441341/image-2.png)
 ![settings-screenshot](https://cdn.discordapp.com/attachments/900064204340465745/1142552520879779940/image-1.png)
